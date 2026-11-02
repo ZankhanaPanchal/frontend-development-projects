@@ -19,10 +19,23 @@ HTML and CSS. Check individual exercises for any additional technologies.
 ## How to view
 Open a project folder and view its HTML file in a browser. Some examples may need local assets from the same folder.
 
-## Screenshots
-Add screenshots of your own exercises to a `screenshots/` folder, then link them here, for example:
+## Project Screenshots
 
-`![Coffee project preview](screenshots/coffee-project.png)`
+### Coffee Project
+![Coffee Project](screenshots/CoffeePage1.png)
+![Coffee Project](screenshots/CoffeePage2.png)
+
+### Registration Form
+![Registration Form](screenshots/Form.png)
+
+### Navigation Bar
+![Navigation Bar](screenshots/NavigationBar.png)
+
+### CSS Positioning
+![Positioning Exercise](screenshots/PositionTask.png)
+
+### CSS ListInfographic
+![Positioning Exercise](screenshots/listInfographic.png)
 
 ## What I practiced
 Semantic page structure, forms, CSS layouts, navigation, and interface presentation.
