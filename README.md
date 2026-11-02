@@ -29,10 +29,10 @@ Open a project folder and view its HTML file in a browser. Some examples may nee
 ![Registration Form](screenshots/Form.png)
 
 ### Navigation Bar
-![Navigation Bar](screenshots/NavigationBar.jpg)
+![Navigation Bar](screenshots/Navigation Bar.png)
 
 ### CSS Positioning
-![Positioning Exercise](screenshots/PositionTask.ipg)
+![Positioning Exercise](screenshots/Position Task.png)
 
 ### CSS ListInfographic
 ![Positioning Exercise](screenshots/listInfographic.png)
